@@ -20,5 +20,28 @@ public class Ejercicio1_16 {
         System.out.println("CÁLCULO DE ÁREA Y CIRCUNFERENCIA");
         System.out.println("--------------------------------");
         
+        
+        double r = 5;
+        final double PI = 3.1416;
+        double area;
+        double longitud;
+        
+        area = PI * (r * r);
+        longitud = PI * (r * 2);
+        
+        
+        System.out.println("Radio: " + r);
+        System.out.println("Longitud de circunferencia: " + longitud);
+        System.out.println("Área del circulo: " + area);
+                
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
 }
